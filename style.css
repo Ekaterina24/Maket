@@ -325,3 +325,124 @@ body {padding: 0; margin: 0;}
     left: 1080.938px;
     top: 1610px;
   }
+  .How_does {
+    font-size: 60px;
+    font-family: sans-serif;
+    color: rgb(241, 245, 244);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 200.937px;
+    top: 1790px;
+  }
+
+.Lorem_ipsum2 {
+    font-size: 24px;
+    font-family: sans-serif;
+    color: rgb(241, 245, 244);
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 180px;
+    top: 1910px;
+  }
+
+.Motic2 {
+    background-image: url("./img/Motic2.png");
+    position: absolute;
+    left: 150px;
+    top: 2050px;
+    width: 75px;
+    height: 71px;
+  }
+
+.Motic3 {
+    background-image: url("./img/Motic2.png");
+    position: absolute;
+    left: 150px;
+    top: 2150px;
+    width: 75px;
+    height: 71px;
+  }
+  
+.Motic4 {
+    background-image: url("./img/Motic2.png");
+    position: absolute;
+    left: 150px;
+    top: 2250px;
+    width: 75px;
+    height: 71px;
+  }
+
+.Easy {
+    font-size: 24px;
+    font-family: sans-serif;
+    color: rgb(241, 245, 244);
+    line-height: 1.2;
+    text-align: left;
+    position: absolute;
+    left: 240px;
+    top: 2050px;
+  }
+
+.Food_delivery {
+    font-size: 24px;
+    font-family: sans-serif;
+    color: rgb(241, 245, 244);
+    line-height: 1.2;
+    text-align: left;
+    position: absolute;
+    left: 240px;
+    top: 2140px;
+  }
+
+.Easy_2 {
+    font-size: 24px;
+    font-family: sans-serif;
+    color: rgb(241, 245, 244);
+    line-height: 1.2;
+    text-align: left;
+    position: absolute;
+    left: 240px;
+    top: 2240px;
+  }
+  
+.Buttons {
+    background-image: url("./img/Buttons.png");
+    position: absolute;
+    left: 160px;
+    top: 2371px;
+    width: 633px;
+    height: 91px;
+  }
+
+.Mag2 {
+    background-image: url("./img/mag2.png");
+    position: absolute;
+    left: 900px;
+    top: 2044px;
+    width: 552px;
+    height: 351px;
+    z-index: 53;
+  }
+
+.Map {
+    background-image: url("./img/Map.png");
+    position: absolute;
+    left: 1220px;
+    top: 1919px;
+    width: 294px;
+    height: 476px;
+    z-index: 54;
+  }
+
+.Man5 {
+    background-image: url("./img/man5.png");
+    position: absolute;
+    left: 1130px;
+    top: 2072px;
+    width: 362px;
+    height: 361px;
+    z-index: 55;
+  }
