@@ -564,3 +564,46 @@ body {padding: 0; margin: 0;}
     left: 1050.937px;
     top: 3356.6px;
   }
+  .Register_2 {
+    font-size: 56px;
+    font-family: sans-serif;
+    color: rgb(51, 51, 51);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 200px;
+    top: 3590px;
+  }
+
+.Br3 {
+    border-width: 2px;
+    border-radius: 40px;
+    border-color: rgb(0, 0, 0);
+    border-style: solid;
+    position: absolute;
+    left: 350px;
+    top: 3854px;
+    width: 324px;
+    height: 76px;
+  }
+
+.Register_3 {
+    font-size: 30px;
+    font-family: sans-serif;
+    color: rgb(51, 51, 51);
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 460px;
+    top: 3845px;
+  }
+  
+.Motic_3 {
+    background-image: url("./img/Motic3.png");
+    position: absolute;
+    left: 870px;
+    top: 3577px;
+    width: 625px;
+    height: 410px;
+  }
