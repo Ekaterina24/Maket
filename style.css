@@ -446,3 +446,121 @@ body {padding: 0; margin: 0;}
     height: 361px;
     z-index: 55;
   }
+  .Rider_Benifits {
+    font-size: 60px;
+    font-family: sans-serif;
+    color: rgb(51, 51, 51);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: left;
+    position: absolute;
+    left: 550.937px;
+    top: 2580px;
+  }
+
+.Lorem_ipsum3 {
+    font-size: 24px;
+    font-family: sans-serif;
+    color: rgb(51, 51, 51);
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 330px;
+    top: 2700px;
+  }
+  
+.Car_3 {
+    background-image: url("./img/car3.png");
+    position: absolute;
+    left: 150px;
+    top: 2931px;
+    width: 329px;
+    height: 329px;
+  }
+
+.High_Potential {
+    font-size: 32px;
+    font-family: sans-serif;
+    color: rgb(51, 51, 51);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 130px;
+    top: 3305px;
+  }
+
+.Many_orders {
+    font-size: 24px;
+    font-family: sans-serif;
+    color: rgb(51, 51, 51);
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 120px;
+    top: 3351px;
+  }
+
+.Car_4 {
+    background-image: url("./img/car4.png");
+    position: absolute;
+    left: 600px;
+    top: 2921px;
+    width: 368px;
+    height: 350px;
+  }
+
+.Flexible_Hours {
+    font-size: 32px;
+    font-family: sans-serif;
+    color: rgb(51, 51, 51);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 700px;
+    top: 3308.3px;
+  }
+
+.Many_orders2 {
+    font-size: 24px;
+    font-family: sans-serif;
+    color: rgb(51, 51, 51);
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 620px;
+    top: 3351px;
+  }
+
+.Car_5 {
+    background-image: url("./img/car5.png");
+    position: absolute;
+    left: 1070px;
+    top: 2931px;
+    width: 277px;
+    height: 332px;
+  }
+
+.Attractive {
+    font-size: 32px;
+    font-family: sans-serif;
+    color: rgb(51, 51, 51);
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 1020.938px;
+    top: 3309.3px;
+  }
+
+.Refer {
+    font-size: 24px;
+    font-family: sans-serif;
+    color: rgb(51, 51, 51);
+    line-height: 1.2;
+    text-align: center;
+    position: absolute;
+    left: 1050.937px;
+    top: 3356.6px;
+  }
