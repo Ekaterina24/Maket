@@ -27,68 +27,64 @@ body {padding: 0; margin: 0;}
     font-weight: bold;
     line-height: 1.2;
     text-align: center;
-    position: absolute;
-    left: 120px;
-    top: 20px;
+    float: left;
+    margin-left: 120px;
+    margin-top: 20px;
   }
 
-.Menu {
+.Menu1 {
     font-size: 26px;
     font-family: sans-serif;
     color: rgb(241, 245, 244);
-    line-height: 1.2;
-    text-align: center;
-    position: absolute;
-    left: 650px;
-    top: 65px;
+    float: left;
+    margin-left: 400px;
+    margin-top: 100px;
   }
 
-.Br1 {
-    border-width: 2px;
-    border-color: rgb(241, 245, 244);
-    border-style: solid;
-    border-radius: 40px;
-    position: absolute;
-    left: 1000px;
-    top: 65px;
-    width: 193px;
-    height: 62px;
+.Menu2 {
+    font-size: 26px;
+    font-family: sans-serif;
+    color: rgb(241, 245, 244);
+    float: left;
+    margin-left: 50px;
+    margin-top: 100px;
+  }
+
+.Menu3 {
+    font-size: 26px;
+    font-family: sans-serif;
+    color: rgb(241, 245, 244);
+    float: left;
+    margin-left: 50px;
+    margin-top: 100px;
+  }
+
+  .Register {
+    font-family: sans-serif;
+    color: rgb(241, 245, 244);
+    float: right;
+    margin-right: 150px;
+    margin-top: 80px;
+    border: 2px solid white;
+    background: none;
+    border-radius: 50px;
+    padding: 2px 25px;
   }
 
 .Login {
-    font-size: 26px;
     font-family: sans-serif;
     color: rgb(241, 245, 244);
-    line-height: 1.2;
-    text-align: center;
-    position: absolute;
-    left: 1065px;
-    top: 55px;
+    float: right;
+    margin-right: 20px;
+    margin-top: 80px;
+    border: 2px solid white;
+    background: none;
+    border-radius: 50px;
+    padding: 2px 35px;
   }
   
 
-.Br2 {
-    border-width: 2px;
-    border-color: rgb(241, 245, 244);
-    border-style: solid;
-    border-radius: 40px;
-    position: absolute;
-    left: 1250px;
-    top: 65px;
-    width: 221px;
-    height: 62px;
-  }
 
-.Register {
-    font-size: 26px;
-    font-family: sans-serif;
-    color: rgb(241, 245, 244);
-    line-height: 1.2;
-    text-align: center;
-    position: absolute;
-    left: 1315px;
-    top: 55px;
-  }
   
 .Food {
     font-size: 60px;
@@ -97,9 +93,9 @@ body {padding: 0; margin: 0;}
     font-weight: bold;
     line-height: 1.2;
     text-align: center;
-    position: absolute;
-    left: 60px;
-    top: 300px;
+    float: right;
+    margin-right: 65%;
+    margin-top: 5%;
   }
 
 .Be_part {
@@ -108,9 +104,9 @@ body {padding: 0; margin: 0;}
     color: rgb(241, 245, 244);
     line-height: 1.2;
     text-align: center;
-    position: absolute;
-    left: 40px;
-    top: 540px;
+    float: right;
+    margin-right: 64%;
+    margin-top: -3%;
   }
 
 .sled {
@@ -249,10 +245,9 @@ body {padding: 0; margin: 0;}
     color: rgb(51, 51, 51);
     font-weight: bold;
     line-height: 1.2;
-    text-align: center;
-    position: absolute;
-    left: 560.938px;
-    top: 1000px;
+    float: left;
+    margin-left: 38%;
+    padding: 5px;
   }
 
 .Lorem_ipsum {
@@ -261,16 +256,16 @@ body {padding: 0; margin: 0;}
     color: rgb(51, 51, 51);
     line-height: 1.2;
     text-align: center;
-    position: absolute;
-    left: 340.937px;
-    top: 1120.548px;
+    float: left;
+    margin-left: 25%;
+    margin-top: -5%;
   }
 
 .Delivery_1 {
     background-image: url("./img/Delivery_1.png");
-    position: absolute;
-    left: 50px;
-    top: 1379px;
+    float: left;
+    margin-left: 5%;
+    margin-top: 10%;
     width: 469px;
     height: 246px;
   }
@@ -282,15 +277,15 @@ body {padding: 0; margin: 0;}
     line-height: 1.2;
     text-align: center;
     position: absolute;
-    left: 160.937px;
+    left: 160px;
     top: 1610px;
   }
 
 .Delivery_2 {
     background-image: url("./img/Delivery_2.png");
-    position: absolute;
-    left: 650px;
-    top: 1324px;
+    float: left;
+    margin-left: 7%;
+    margin-top: 5%;
     width: 290px;
     height: 311px;
   }
@@ -302,15 +297,15 @@ body {padding: 0; margin: 0;}
     line-height: 1.2;
     text-align: center;
     position: absolute;
-    left: 660.938px;
+    left: 660px;
     top: 1610px;
   }
 
 .Customer {
     background-image: url("./img/Customer.png");
-    position: absolute;
-    left: 1050px;
-    top: 1379px;
+    float: left;
+    margin-left: 7%;
+    margin-top: 10%;
     width: 396px;
     height: 249px;
   }
@@ -322,7 +317,7 @@ body {padding: 0; margin: 0;}
     line-height: 1.2;
     text-align: center;
     position: absolute;
-    left: 1080.938px;
+    left: 1080px;
     top: 1610px;
   }
   .How_does {
@@ -333,7 +328,7 @@ body {padding: 0; margin: 0;}
     line-height: 1.2;
     text-align: center;
     position: absolute;
-    left: 200.937px;
+    left: 200px;
     top: 1790px;
   }
 
@@ -454,7 +449,7 @@ body {padding: 0; margin: 0;}
     line-height: 1.2;
     text-align: left;
     position: absolute;
-    left: 550.937px;
+    left: 550px;
     top: 2580px;
   }
 
@@ -519,7 +514,7 @@ body {padding: 0; margin: 0;}
     text-align: center;
     position: absolute;
     left: 700px;
-    top: 3308.3px;
+    top: 3308px;
   }
 
 .Many_orders2 {
@@ -550,8 +545,8 @@ body {padding: 0; margin: 0;}
     line-height: 1.2;
     text-align: center;
     position: absolute;
-    left: 1020.938px;
-    top: 3309.3px;
+    left: 1020px;
+    top: 3309px;
   }
 
 .Refer {
@@ -561,8 +556,8 @@ body {padding: 0; margin: 0;}
     line-height: 1.2;
     text-align: center;
     position: absolute;
-    left: 1050.937px;
-    top: 3356.6px;
+    left: 1050px;
+    top: 3356px;
   }
   .Register_2 {
     font-size: 56px;
@@ -742,33 +737,32 @@ body {padding: 0; margin: 0;}
     left: 1090px;
     top: 4290px;
   }
-  
-.Br4 {
-    border-width: 1px;
-    border-color: rgb(241, 245, 244);
-    border-style: solid;
-    border-radius: 29px;
-    background-color: rgb(248, 241, 241);
-    position: absolute;
-    left: 1070px;
-    top: 4380px;
-    width: 411px;
-    height: 56px;
- 
+.Br4 input{
+  width: 300px;
+  height: 50px;
+  border: none;
+  padding: 15px;
+  font-size: 18px;
+  padding-right: 120px;
+  border-radius: 40px;
+  position: absolute;
+  left: 1000px;
+  top: 4370px;
+
   }
 
-.Br5 {
+.Br5 button{
     border-width: 1px;
     border-color: rgb(241, 245, 244);
     border-style: solid;
     border-radius: 40px;
     background-color: rgb(237, 28, 36);
     position: absolute;
-    left: 1315px;
+    left: 1250px;
     top: 4390px;
-    width: 164px;
-    height: 46px;
-    z-index: 100;
+    width: 180px;
+    height: 55px;
+    z-index: 150;
   }
 
 .Subscribe {
@@ -778,9 +772,9 @@ body {padding: 0; margin: 0;}
     line-height: 2;
     text-align: left;
     position: absolute;
-    left: 1340px;
+    left: 1290px;
     top: 4368px;
-    z-index: 105;
+    z-index: 200;
   }
 
 .Line {
